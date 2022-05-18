@@ -1,9 +1,14 @@
 # LAPORAN PRAKTIKUM 14
-## Praktikum Jaringan Komputer B
+## Praktikum Jaringan Komputer
 
 Dosen Pengampu: JOHAN ERICKA WAHYUPRAKASA, M.Kom
 
-Oleh : Taufik Ardiansyah Putra 200605110071
+```markdown
+DATA DIRI
+Nama    : Taufik Ardiansyah Putra
+Kelas   : Praktikum Jaringan Komputer B
+NIM     : 200605110071
+```
  
 ### Tujuan
 Buatlah tutorial instalasi web server step by step (distro bebas) yang berisi :
