@@ -22,19 +22,20 @@ tutorial di buat dalam sebuah blog yang berisi identitas anda. paste alamat URL 
 
  
   •	Instalasi web server (apache)
-  1 Lakukan update terlebih dahulu dengan perintah sudo apt-get updatee
+  
+  1. Lakukan update terlebih dahulu dengan perintah sudo apt-get updatee
 
   ![image](https://user-images.githubusercontent.com/74701531/169015439-5fe95c22-0a8f-4b6f-afb8-3149f1affc19.png)
 
-  2 Setelah itu install apache2 dengan perintah sudo apt-get install apache2
+  2. Setelah itu install apache2 dengan perintah sudo apt-get install apache2
 
   ![image](https://user-images.githubusercontent.com/74701531/169015471-73fece81-4db7-4796-99d4-536fbe067e1d.png)
 
-  3 Cek status dari Apache2 dengan perintah sudo service apache2
+  3. Cek status dari Apache2 dengan perintah sudo service apache2
 
   ![image](https://user-images.githubusercontent.com/74701531/169016748-b29af140-868f-44c2-b3ea-5f996c37c412.png)
 
-  4 Cek hasil web service di browser
+  4. Cek hasil web service di browser
 
 
    ![image](https://user-images.githubusercontent.com/74701531/169016802-6069834b-4726-46b0-bec6-3f96484bee25.png)
@@ -42,7 +43,7 @@ tutorial di buat dalam sebuah blog yang berisi identitas anda. paste alamat URL 
 
   •	Instalasi PHP
 
-  1 Lakukan update terlebih dahulu dengan perintah sudo apt-get update
+  1. Lakukan update terlebih dahulu dengan perintah sudo apt-get update
 
   ![image](https://user-images.githubusercontent.com/74701531/169016913-aef07d77-e3f7-44fd-b445-0682146a8294.png)
 
