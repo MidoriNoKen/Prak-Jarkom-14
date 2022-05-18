@@ -18,7 +18,7 @@ Buatlah tutorial instalasi web server step by step (distro bebas) yang berisi :
 -	instalasi ftp server (proftpd / vsftpd / dll)
 -	pembuatan user dengan home direktori di direktori website
 -	upload file website ke server melalui ftp (website bebas bisa wordpress / semacamnya asal memiliki akses ke database / bukan website statis)
-tutorial di buat dalam sebuah blog yang berisi identitas anda. paste alamat URL blog di tugas ini
+tutorial di buat dalam sebuah blog yang berisi identitas anda. paste alamat URL blog di tugas ini 
 
  
   •	Instalasi web server (apache)
