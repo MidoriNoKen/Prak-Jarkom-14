@@ -22,11 +22,11 @@ tutorial di buat dalam sebuah blog yang berisi identitas anda. paste alamat URL 
 
  
   •	Instalasi web server (apache)
-  1. Lakukan update terlebih dahulu dengan perintah sudo apt-get update
+1. Lakukan update terlebih dahulu dengan perintah sudo apt-get updatee
 
-  ![image](https://user-images.githubusercontent.com/74701531/169015439-5fe95c22-0a8f-4b6f-afb8-3149f1affc19.png)
+![image](https://user-images.githubusercontent.com/74701531/169015439-5fe95c22-0a8f-4b6f-afb8-3149f1affc19.png)
 
-  2. Setelah itu install apache2 dengan perintah sudo apt-get install apache2
+2. Setelah itu install apache2 dengan perintah sudo apt-get install apache2
 
   ![image](https://user-images.githubusercontent.com/74701531/169015471-73fece81-4db7-4796-99d4-536fbe067e1d.png)
 
